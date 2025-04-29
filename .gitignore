@@ -1,0 +1,9 @@
+r3gan/lib/*
+metrics/*
+torch_utils/*
+training/*
+training-runs/*
+R3GAN/*
+r3gan/*
+dnnlib/*
+__pycache__/*
